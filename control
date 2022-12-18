@@ -1,0 +1,9 @@
+Package: com.ps.ccmultitaskinggestures
+Name: CCMultitaskingGestures
+Depends: com.opa334.ccsupport
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: CC module for Multitasking Gestures feature.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Control Center (Modules)
